@@ -1,0 +1,14 @@
+/OpenInvoicePeru.Comun.Dto.Modelos.DetalleDocumento.datasource////
+/OpenInvoicePeru.Comun.Dto.Modelos.DocumentoElectronico.datasource////
+/OpenInvoicePeru.Datos.Entidades.DireccionSunat.datasource////
+/OpenInvoicePeru.Datos.Entidades.ModalidadTransporte.datasource////
+/OpenInvoicePeru.Datos.Entidades.Moneda.datasource////
+/OpenInvoicePeru.Datos.Entidades.TipoDatoAdicional.datasource////
+/OpenInvoicePeru.Datos.Entidades.TipoDiscrepancia.datasource////
+/OpenInvoicePeru.Datos.Entidades.TipoDocumento.datasource////
+/OpenInvoicePeru.Datos.Entidades.TipoDocumentoAnticipo.datasource////
+/OpenInvoicePeru.Datos.Entidades.TipoDocumentoContribuyente.datasource////
+/OpenInvoicePeru.Datos.Entidades.TipoDocumentoRelacionado.datasource////
+/OpenInvoicePeru.Datos.Entidades.TipoImpuesto.datasource////
+/OpenInvoicePeru.Datos.Entidades.TipoOperacion.datasource////
+/OpenInvoicePeru.Datos.Entidades.TipoPrecio.datasource////
